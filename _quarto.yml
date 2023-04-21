@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bruno Vieira"
+  navbar:
+    right:
+
+      - href: index.qmd
+        text: Home
+      - href: projetos.qmd
+        text: Projetos
+
+
+format:
+  html:
+    theme: Flatly
+    css: styles.css
+    toc: true
+
+
+

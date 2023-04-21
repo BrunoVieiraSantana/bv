@@ -1,0 +1,61 @@
+---
+title: "Bruno Vieira"
+image: avatar.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/
+    - text: GitHub
+      href: https://github.com/BrunoVieiraSantana
+    - text: Email
+      href: mailto:bruno_vieira_santana@hotmail.com
+
+---
+:::{#hero-heading}
+
+## Biografia
+
+Estudante de Programação, com foco em Python, em busca de expêriencia nas áreas de Programação de sistemas e análise de dados.
+
+## Educação
+
+Programador de Sistemas | 
+Senai | Caucaia, Ce |
+Janeiro de 2023 - Atualmente
+
+Pedagogia - Licenciatura | 
+Anhanguera | Caucaia, Ce
+
+#### Formação Complementar
+
+Fundamentos do Desenvolvimento de Sistemas | 49h | Fundação Bradesco
+
+Linguagem de Programação Python | 68h | Fundação Bradesco
+
+Análise de Dados com Python | 40h | Anhanguera
+
+## Experiência
+
+Colégio Oliveira Castro | 
+Monitor de aulas virtuais | 
+Novembro de 2021 - Julho de 2022
+
+Prefeitura Municipal de Caucaia | 
+Professor de informática educativa 
+Janeiro de 2015 - Dezembro de 2016
+
+Prefeitura Municipal de Caucaia | 
+Monitor de informática educativa 
+Janeiro de 2012 - Dezembro de 2014
+
+
+
+
+:::
+
+
+
+
