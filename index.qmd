@@ -18,13 +18,16 @@ about:
 
 ## Biografia
 
-Estudante de Programação, com foco em Python, em busca de expêriencia nas áreas de Programação de sistemas e análise de dados.
+Estudante de Programação, com foco em Python, em busca de experiência nas áreas de Programação de sistemas e análise de dados.
 
 ## Educação
 
 Programador de Sistemas | 
 Senac | Caucaia, Ce |
 Janeiro de 2023 - Atualmente
+
+Análise e Desenvolvimento de Sistemas | 
+Anhanguera | Caucaia, Ce
 
 Pedagogia - Licenciatura | 
 Anhanguera | Caucaia, Ce
