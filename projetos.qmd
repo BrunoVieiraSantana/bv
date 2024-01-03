@@ -2,6 +2,7 @@
 title: "Projetos"
 engine: jupyter
 ---
+
 ## Criação de aplicativo multiplataforma de gerenciamento de gastos financeiros
 ##### Visão geral
 <div style="text-align: justify;">
