@@ -73,9 +73,3 @@ import re
 Interface de úsuario
 
 ![](Biblioteca.jpg)
-
-
-Diagramas da Modelagem de Dados
-
-![](Diagrama_final.jpg)
-
