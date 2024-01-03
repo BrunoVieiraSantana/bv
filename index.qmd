@@ -13,7 +13,7 @@ about:
     - text: Email
       href: mailto:bruno_vieira_santana@hotmail.com
     - text: Currículo
-      url: "dev.pdf"
+      url: "bv/dev.pdf"
 
 ---
 :::{#hero-heading}
