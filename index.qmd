@@ -12,19 +12,20 @@ about:
       href: https://github.com/BrunoVieiraSantana
     - text: Email
       href: mailto:bruno_vieira_santana@hotmail.com
+    - text: Currículo
+      url: dev.pdf
 
 ---
 :::{#hero-heading}
 
 ## Biografia
 
-Estudante de Programação, com foco em Python, em busca de experiência nas áreas de Programação de sistemas e análise de dados.
+Estudante de Programação, atualmente focado no estudo de JavaScript, html e css, em busca de experiência nas área de Programação de sistemas.
 
 ## Educação
 
 Programador de Sistemas | 
-Senac | Caucaia, Ce |
-Janeiro de 2023 - Atualmente
+Senac | Caucaia, Ce 
 
 Análise e Desenvolvimento de Sistemas | 
 Anhanguera | Caucaia, Ce
@@ -32,7 +33,8 @@ Anhanguera | Caucaia, Ce
 Pedagogia - Licenciatura | 
 Anhanguera | Caucaia, Ce
 
-#### Formação Complementar
+## Formação Complementar
+Ciência de Dados | 80h | DIO
 
 Fundamentos do Desenvolvimento de Sistemas | 49h | Fundação Bradesco
 
