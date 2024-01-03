@@ -32,7 +32,7 @@
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "código utilizado no teste\n\nfrom datetime import date\nprint(\"Data atual:\", date.today())\n\nData atual: 2024-01-03"
+    "text": "Este projeto em Python apresenta uma aplicação de interface gráfica utilizando a biblioteca Tkinter.\n\nSistema de biblioteca - Recursos:\n\n\n\nLogin\nCriação de novos usuários\nRecuperação de senha\nGerenciamento de aluguéis\nBusca de livros\n\n\nO banco de dados utilizado foi o PostgreSQL, que se torna fundamental para o armazenamento de informações sobre livros, usuários e aluguéis. A biblioteca psycopg2 é empregada para facilitar a comunicação eficiente com o banco de dados.\n\n\nA estrutura do código foi organizada em classes e funções, promovendo uma manutenção facilitada e permitindo futuras expansões do projeto.\n\n\nEste projeto tem como finalidade destacar a utilização da linguagem de programação Python e demonstrar a aplicação prática de conceitos fundamentais de interface gráfica e gerenciamento de banco de dados em um contexto real.\n\nBibliotecas utilizadas\n\nimport customtkinter\nimport tkinter\nimport re\n\nInterface de úsuario\n\nDiagramas da Modelagem de Dados"
   },
   {
     "objectID": "index.html#formação-complementar",
@@ -52,7 +52,21 @@
     "objectID": "projetos.html#teste-de-funcionamento-jupyterquarto",
     "href": "projetos.html#teste-de-funcionamento-jupyterquarto",
     "title": "Projetos",
+    "section": "Teste de funcionamento Jupyter/Quarto",
+    "text": "Teste de funcionamento Jupyter/Quarto\ncódigo utilizado no teste\n\nfrom datetime import date\nprint(\"Data atual:\", date.today())\n\nData atual: 2024-01-03"
+  },
+  {
+    "objectID": "projetos.html#teste-de-funcionamento-jupyterquarto-1",
+    "href": "projetos.html#teste-de-funcionamento-jupyterquarto-1",
+    "title": "Projetos",
+    "section": "Teste de funcionamento Jupyter/Quarto",
+    "text": "Teste de funcionamento Jupyter/Quarto\ncódigo utilizado no teste\n\nfrom datetime import date\nprint(\"Data atual:\", date.today())\n\nData atual: 2024-01-03"
+  },
+  {
+    "objectID": "projetos.html#criação-de-software-de-gerenciamento-de-biblioteca",
+    "href": "projetos.html#criação-de-software-de-gerenciamento-de-biblioteca",
+    "title": "Projetos",
     "section": "",
-    "text": "código utilizado no teste\n\nfrom datetime import date\nprint(\"Data atual:\", date.today())\n\nData atual: 2024-01-03"
+    "text": "Este projeto em Python apresenta uma aplicação de interface gráfica utilizando a biblioteca Tkinter.\n\nSistema de biblioteca - Recursos:\n\n\n\nLogin\nCriação de novos usuários\nRecuperação de senha\nGerenciamento de aluguéis\nBusca de livros\n\n\nO banco de dados utilizado foi o PostgreSQL, que se torna fundamental para o armazenamento de informações sobre livros, usuários e aluguéis. A biblioteca psycopg2 é empregada para facilitar a comunicação eficiente com o banco de dados.\n\n\nA estrutura do código foi organizada em classes e funções, promovendo uma manutenção facilitada e permitindo futuras expansões do projeto.\n\n\nEste projeto tem como finalidade destacar a utilização da linguagem de programação Python e demonstrar a aplicação prática de conceitos fundamentais de interface gráfica e gerenciamento de banco de dados em um contexto real.\n\nBibliotecas utilizadas\n\nimport customtkinter\nimport tkinter\nimport re\n\nInterface de úsuario\n\nDiagramas da Modelagem de Dados"
   }
 ]

@@ -139,7 +139,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#teste-de-funcionamento-jupyterquarto" id="toc-teste-de-funcionamento-jupyterquarto" class="nav-link active" data-scroll-target="#teste-de-funcionamento-jupyterquarto">Teste de funcionamento Jupyter/Quarto</a></li>
+  <li><a href="#criação-de-software-de-gerenciamento-de-biblioteca" id="toc-criação-de-software-de-gerenciamento-de-biblioteca" class="nav-link active" data-scroll-target="#criação-de-software-de-gerenciamento-de-biblioteca">Criação de software de gerenciamento de Biblioteca</a></li>
+  <li><a href="#teste-de-funcionamento-jupyterquarto" id="toc-teste-de-funcionamento-jupyterquarto" class="nav-link" data-scroll-target="#teste-de-funcionamento-jupyterquarto">Teste de funcionamento Jupyter/Quarto</a></li>
   </ul>
 </nav>
     </div>
@@ -163,12 +164,50 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
+<section id="criação-de-software-de-gerenciamento-de-biblioteca" class="level2">
+<h2 class="anchored" data-anchor-id="criação-de-software-de-gerenciamento-de-biblioteca">Criação de software de gerenciamento de Biblioteca</h2>
+<section id="visão-geral" class="level5">
+<h5 class="anchored" data-anchor-id="visão-geral">Visão geral</h5>
+<div style="text-align: justify;">
+<p>Este projeto em Python apresenta uma aplicação de interface gráfica utilizando a biblioteca Tkinter.</p>
+</div>
+Sistema de biblioteca - Recursos:
+<p>
+</p>
+<ul>
+<li>Login</li>
+<li>Criação de novos usuários</li>
+<li>Recuperação de senha</li>
+<li>Gerenciamento de aluguéis</li>
+<li>Busca de livros</li>
+</ul>
+<div style="text-align: justify;">
+<p>O banco de dados utilizado foi o PostgreSQL, que se torna fundamental para o armazenamento de informações sobre livros, usuários e aluguéis. A biblioteca psycopg2 é empregada para facilitar a comunicação eficiente com o banco de dados.</p>
+</div>
+<div style="text-align: justify;">
+<p>A estrutura do código foi organizada em classes e funções, promovendo uma manutenção facilitada e permitindo futuras expansões do projeto.</p>
+</div>
+<div style="text-align: justify;">
+<p>Este projeto tem como finalidade destacar a utilização da linguagem de programação Python e demonstrar a aplicação prática de conceitos fundamentais de interface gráfica e gerenciamento de banco de dados em um contexto real.</p>
+</div>
+<p>Bibliotecas utilizadas</p>
+<div class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> customtkinter</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> tkinter</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> re</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Interface de úsuario</p>
+<p><img src="Biblioteca.jpg" class="img-fluid"></p>
+<p>Diagramas da Modelagem de Dados</p>
+<p><img src="Diagrama_final.jpg" class="img-fluid"></p>
+</section>
+</section>
 <section id="teste-de-funcionamento-jupyterquarto" class="level2">
 <h2 class="anchored" data-anchor-id="teste-de-funcionamento-jupyterquarto">Teste de funcionamento Jupyter/Quarto</h2>
 <p>código utilizado no teste</p>
-<div class="cell" data-execution_count="1">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> datetime <span class="im">import</span> date</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"Data atual:"</span>, date.today())</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell" data-execution_count="2">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> datetime <span class="im">import</span> date</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"Data atual:"</span>, date.today())</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Data atual: 2024-01-03</code></pre>
 </div>

@@ -3,6 +3,49 @@ title: "Projetos"
 engine: jupyter
 ---
 
+
+## Criação de software de gerenciamento de Biblioteca
+##### Visão geral
+<div style="text-align: justify;">
+Este projeto em Python apresenta uma aplicação de interface gráfica utilizando a biblioteca Tkinter.
+</div>
+
+Sistema de biblioteca - Recursos:
+<p></p>
+- Login
+- Criação de novos usuários
+- Recuperação de senha
+- Gerenciamento de aluguéis
+- Busca de livros
+
+<div style="text-align: justify;">
+O banco de dados utilizado foi o PostgreSQL, que se torna fundamental para o armazenamento de informações sobre livros, usuários e aluguéis. A biblioteca psycopg2 é empregada para facilitar a comunicação eficiente com o banco de dados.
+</div>
+
+<div style="text-align: justify;">
+A estrutura do código foi organizada em classes e funções, promovendo uma manutenção facilitada e permitindo futuras expansões do projeto.
+</div>
+
+<div style="text-align: justify;">
+Este projeto tem como finalidade destacar a utilização da linguagem de programação Python e demonstrar a aplicação prática de conceitos fundamentais de interface gráfica e gerenciamento de banco de dados em um contexto real.
+</div>
+
+Bibliotecas utilizadas
+```{python}
+import customtkinter
+import tkinter
+import re
+```
+
+Interface de úsuario
+
+![](Biblioteca.jpg)
+
+
+Diagramas da Modelagem de Dados
+
+![](Diagrama_final.jpg)
+
 ## Teste de funcionamento Jupyter/Quarto
 
 código utilizado no teste
