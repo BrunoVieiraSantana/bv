@@ -46,11 +46,3 @@ Diagramas da Modelagem de Dados
 
 ![](Diagrama_final.jpg)
 
-## Teste de funcionamento Jupyter/Quarto
-
-código utilizado no teste
-
-```{python}
-from datetime import date
-print("Data atual:", date.today())
-```
