@@ -1,5 +1,13 @@
 ---
 title: "Projetos"
+engine: jupyter
 ---
 
-Projetos em andamento...
+## Teste de funcionamento Jupyter/Quarto
+
+código utilizado no teste
+
+```{python}
+from datetime import date
+print("Data atual:", date.today())
+```

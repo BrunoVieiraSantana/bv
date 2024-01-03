@@ -32,7 +32,7 @@
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "Projetos em andamento…"
+    "text": "código utilizado no teste\n\nfrom datetime import date\nprint(\"Data atual:\", date.today())\n\nData atual: 2024-01-03"
   },
   {
     "objectID": "index.html#formação-complementar",
@@ -40,5 +40,19 @@
     "title": "Bruno Vieira",
     "section": "",
     "text": "Ciência de Dados | 80h | DIO\nFundamentos do Desenvolvimento de Sistemas | 49h | Fundação Bradesco\nLinguagem de Programação Python | 68h | Fundação Bradesco\nAnálise de Dados com Python | 40h | Anhanguera"
+  },
+  {
+    "objectID": "projetos.html#title",
+    "href": "projetos.html#title",
+    "title": "Projetos",
+    "section": "",
+    "text": "?meta:block\n\nfrom datetime import date\nprint(\"Today's date:\", date.today())\n\nToday's date: 2024-01-03"
+  },
+  {
+    "objectID": "projetos.html#teste-de-funcionamento-jupyterquarto",
+    "href": "projetos.html#teste-de-funcionamento-jupyterquarto",
+    "title": "Projetos",
+    "section": "",
+    "text": "código utilizado no teste\n\nfrom datetime import date\nprint(\"Data atual:\", date.today())\n\nData atual: 2024-01-03"
   }
 ]
