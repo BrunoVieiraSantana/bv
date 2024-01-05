@@ -32,7 +32,7 @@
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "const { spawn } = require('child_process');\nconst notebook = spawn('node', ['terminal.js'], { stdio: 'inherit' });\n\nnotebook.on('exit', (code) =&gt; {\n  process.exit(code);\n});"
+    "text": "Este projeto foi concretizado por meio de colaboração, visando o aprimoramento das minhas habilidades interpessoais no trabalho em equipe.\n\n\nUtilizando Python, KivyMD e Firebase, foi possível criar um aplicativo com uma interface gráfica receptiva e funcional.\n\nVideo\n\n\n\nO desenvolvimento deste aplicativo de finanças pessoais, teve como foco o gerenciamento de gastos financeiros, e foi executado com a finalidade de proporcionar a máxima comodidade aos usuários, buscando facilitar a experiência no controle de suas finanças pessoais.\n\nFuncionalidades:\n\n\n\nRelatórios Visuais\nGráficos Responsivos\nCadastro e Gerenciamento de Usuários\n\nTecnologias utilizadas\n\n\n\nPython\nKivyMD\nFirebase\n\n\n\nInterface gráfica utilizada na versão de computador \n\n\nDesenvolvedores"
   },
   {
     "objectID": "index.html#formação-complementar",
@@ -73,8 +73,8 @@
     "objectID": "projetos.html#criação-de-aplicativo-multiplataforma-de-gerenciamento-de-gastos-financeiros",
     "href": "projetos.html#criação-de-aplicativo-multiplataforma-de-gerenciamento-de-gastos-financeiros",
     "title": "Projetos",
-    "section": "Criação de aplicativo multiplataforma de gerenciamento de gastos financeiros",
-    "text": "Criação de aplicativo multiplataforma de gerenciamento de gastos financeiros\n\nVisão geral\n\nEste projeto foi concretizado por meio de colaboração, visando o aprimoramento das minhas habilidades interpessoais no trabalho em equipe.\n\n\nUtilizando Python, KivyMD e Firebase, foi possível criar um aplicativo com uma interface gráfica receptiva e funcional.\n\nVideo\n\n\n\nO desenvolvimento deste aplicativo de finanças pessoais, teve como foco o gerenciamento de gastos financeiros, e foi executado com a finalidade de proporcionar a máxima comodidade aos usuários, buscando facilitar a experiência no controle de suas finanças pessoais.\n\nFuncionalidades:\n\n\n\nRelatórios Visuais\nGráficos Responsivos\nCadastro e Gerenciamento de Usuários\n\nTecnologias utilizadas\n\n\n\nPython\nKivyMD\nFirebase\n\n\n\nInterface gráfica utilizada na versão de computador \n\n\nDesenvolvedores"
+    "section": "",
+    "text": "Este projeto foi concretizado por meio de colaboração, visando o aprimoramento das minhas habilidades interpessoais no trabalho em equipe.\n\n\nUtilizando Python, KivyMD e Firebase, foi possível criar um aplicativo com uma interface gráfica receptiva e funcional.\n\nVideo\n\n\n\nO desenvolvimento deste aplicativo de finanças pessoais, teve como foco o gerenciamento de gastos financeiros, e foi executado com a finalidade de proporcionar a máxima comodidade aos usuários, buscando facilitar a experiência no controle de suas finanças pessoais.\n\nFuncionalidades:\n\n\n\nRelatórios Visuais\nGráficos Responsivos\nCadastro e Gerenciamento de Usuários\n\nTecnologias utilizadas\n\n\n\nPython\nKivyMD\nFirebase\n\n\n\nInterface gráfica utilizada na versão de computador \n\n\nDesenvolvedores"
   },
   {
     "objectID": "projetos.html#estudos-com-javascript",
