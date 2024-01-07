@@ -23,15 +23,14 @@ about:
 Estudante de Programação, atualmente focado no estudo de JavaScript, html e css, em busca de experiência nas área de Programação de sistemas.
 
 ## Educação
-
 Programador de Sistemas | 
-Senac | Caucaia, Ce 
+Senac | 200h | Caucaia, Ce 
 
 Análise e Desenvolvimento de Sistemas | 
-UniFatecie | Caucaia, Ce
+UniFatecie | Caucaia, Ce (Em Conclusão)
 
 Pedagogia - Licenciatura | 
-Anhanguera | Caucaia, Ce
+Anhanguera | Caucaia, Ce 
 
 ## Formação Complementar
 Ciência de Dados | 80h | DIO
