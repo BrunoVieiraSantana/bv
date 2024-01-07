@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Bruno Vieira",
     "section": "",
-    "text": "Estudante de Programação, atualmente focado no estudo de JavaScript, html e css, em busca de experiência nas área de Programação de sistemas.\n\n\n\nProgramador de Sistemas | Senac | Caucaia, Ce\nAnálise e Desenvolvimento de Sistemas | UniFatecie | Caucaia, Ce\nPedagogia - Licenciatura | Anhanguera | Caucaia, Ce\n\n\n\nCiência de Dados | 80h | DIO\nFundamentos do Desenvolvimento de Sistemas | 49h | Fundação Bradesco\nLinguagem de Programação Python | 68h | Fundação Bradesco\nAnálise de Dados com Python | 40h | Anhanguera\n\n\n\nColégio Oliveira Castro | Monitor de aulas virtuais | Novembro de 2021 - Julho de 2022\nPrefeitura Municipal de Caucaia | Professor de informática educativa Janeiro de 2015 - Dezembro de 2016\nPrefeitura Municipal de Caucaia | Monitor de informática educativa Janeiro de 2012 - Dezembro de 2014"
+    "text": "Estudante de Programação, atualmente focado no estudo de JavaScript, html e css, em busca de experiência nas área de Programação de sistemas.\n\n\n\nCurso Livre Programador de Sistemas | Senac | 200h | Caucaia, Ce\nTecnólogo Análise e Desenvolvimento de Sistemas | UniFatecie | Caucaia, Ce | (Em Conclusão)\nLicenciatura Pedagogia - Licenciatura | Anhanguera | Caucaia, Ce\n\n\n\nCiência de Dados | 80h | DIO\nFundamentos do Desenvolvimento de Sistemas | 49h | Fundação Bradesco\nLinguagem de Programação Python | 68h | Fundação Bradesco\nAnálise de Dados com Python | 40h | Anhanguera\n\n\n\nColégio Oliveira Castro | Monitor de aulas virtuais | Novembro de 2021 - Julho de 2022\nPrefeitura Municipal de Caucaia | Professor de informática educativa Janeiro de 2015 - Dezembro de 2016\nPrefeitura Municipal de Caucaia | Monitor de informática educativa Janeiro de 2012 - Dezembro de 2014"
   },
   {
     "objectID": "index.html#biografia",
@@ -18,7 +18,7 @@
     "href": "index.html#educação",
     "title": "Bruno Vieira",
     "section": "",
-    "text": "Programador de Sistemas | Senac | Caucaia, Ce\nAnálise e Desenvolvimento de Sistemas | UniFatecie | Caucaia, Ce\nPedagogia - Licenciatura | Anhanguera | Caucaia, Ce"
+    "text": "Curso Livre Programador de Sistemas | Senac | 200h | Caucaia, Ce\nTecnólogo Análise e Desenvolvimento de Sistemas | UniFatecie | Caucaia, Ce | (Em Conclusão)\nLicenciatura Pedagogia - Licenciatura | Anhanguera | Caucaia, Ce"
   },
   {
     "objectID": "index.html#experiência",
@@ -32,7 +32,7 @@
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "O projeto consistiu no desenvolvimento de um Formulário de Pedido e calculo de Orçamento.\n\n\nForam empregadas no processo de criação tecnologias web fundamentais, como HTML para estrutura, CSS para estilização e JavaScript para interatividade."
+    "text": "O projeto envolveu a criação de um Formulário de Pedido e Cálculo de Orçamento, utilizando HTML para a estrutura, CSS para estilização e JavaScript para interatividade."
   },
   {
     "objectID": "index.html#formação-complementar",
@@ -88,6 +88,6 @@
     "href": "projetos.html#formulario-em-html-e-css",
     "title": "Projetos",
     "section": "",
-    "text": "O projeto consistiu no desenvolvimento de um Formulário de Pedido e calculo de Orçamento.\n\n\nForam empregadas no processo de criação tecnologias web fundamentais, como HTML para estrutura, CSS para estilização e JavaScript para interatividade."
+    "text": "O projeto envolveu a criação de um Formulário de Pedido e Cálculo de Orçamento, utilizando HTML para a estrutura, CSS para estilização e JavaScript para interatividade."
   }
 ]
