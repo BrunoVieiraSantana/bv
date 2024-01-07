@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pedido de Orçamento</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
 
 </head>
 <script>
@@ -37,7 +38,7 @@ function exibirListaEquipamentos() {
 
         containerListaEquipamentos.innerHTML += `
             <p class="item-equipamento">
-                <img src="bv/delete.png" alt="Excluir" onclick="removerEquipamento(${index})" class="icone-excluir">
+                <img src="delete.png" alt="Excluir" onclick="removerEquipamento(${index})" class="icone-excluir">
                 Equipamento ${index + 1}: ${textoEquipamento}
             </p>`;
     });
