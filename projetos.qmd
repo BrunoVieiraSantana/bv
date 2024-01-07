@@ -2,7 +2,7 @@
 title: "Projetos"
 engine: jupyter
 ---
-## Formulario em HTML e CSS
+## Formulario em HTML, CSS e JavaScript
 ##### Visão geral
 <div style="text-align: justify;">
 O projeto envolveu a criação de um Formulário de Pedido e Cálculo de Orçamento, utilizando HTML para a estrutura, CSS para estilização e JavaScript para interatividade.
